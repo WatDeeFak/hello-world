@@ -1,2 +1,4 @@
 # hello-world
-for practicing GitHub
+Bali, Indonesia
+
+practising Github, no idea how to use Github 

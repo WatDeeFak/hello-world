@@ -7,4 +7,4 @@ no idea how to use Github
 
 it's okay, i'll figure it out
 
-![https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGoxc2I1azI2dW9leWdkb2xlMTU1OTBuZGk5YTBiaWt3bHZwMW01cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rU7p4CsqaNIac/giphy.gif]
+![giphy](https://github.com/user-attachments/assets/f71197c5-db37-425e-9635-0896ca9a1d72)
